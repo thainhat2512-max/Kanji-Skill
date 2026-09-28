@@ -1,0 +1,6 @@
+{
+  "name": "Kanji Niji - Học Kanji Tiếng Nhật Cầu Vồng",
+  "description": "Ứng dụng từ điển và học Kanji tiếng Nhật toàn năng từ N5 đến N1 với phong cách Rainbow Magic rực rỡ, hỗ trợ tra cứu mọi chữ Kanji trong từ điển, 214 bộ thủ Khang Hy, nghĩa Hán Việt, On/Kun, kiểm tra nét vẽ tương tác, tùy biến nhân vật Người Que (Stickman) và tích lũy điểm thưởng mua trang phục.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
